@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*COLORES*/
+
+:root{
+    --color-header:#1B1D21;
+    --color-line:#757776;
+}
+
+/*QUITAMOS MARGIENES/LIMPIAMOS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
